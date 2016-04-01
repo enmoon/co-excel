@@ -2,7 +2,7 @@
   "name": "co-execl",
   "version": "0.0.1",
   "author": "enmoon <774167525@qq.com>",
-  "description": "Simple NodeJS Excel to JSON,ES2015 Generator Funtion",
+  "description": "Simple NodeJS Excel to JSON, ECMAScript 2015 Generator Funtion",
   "dependencies": {
     "thunkify": "2.1.2",
     "excel": "~0.1.4"
