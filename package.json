@@ -1,5 +1,5 @@
 {
-  "name": "co-execl",
+  "name": "co-excel",
   "version": "0.0.1",
   "author": "enmoon <774167525@qq.com>",
   "description": "Simple NodeJS Excel to JSON, ECMAScript 2015 Generator Funtion",
@@ -20,12 +20,15 @@
     "async",
     "execl",
     "json",
-    "ES2015",
+    "ECMAScript 2015",
     "generator"
   ],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/enmoon/co-excel/issues"
   },
-  "homepage": "https://github.com/enmoon/co-excel"
+  "homepage": "https://github.com/enmoon/co-excel",
+  "directories": {
+    "test": "test"
+  }
 }
