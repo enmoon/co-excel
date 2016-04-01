@@ -9,15 +9,14 @@ Install
 
 Use
 ====
-    var execl = require('co-excel');
+    var excel = require('co-excel');
 
-    var handelr = function *(next) {
+    var handle = function *(next) {
     	var uri = 'xxxx.xlsx';
-    	var json = yield excel(uri);.npmignore
+    	var json = yield excel(uri);
 
     	console.log(json);
     };
-
 
 Test
 =====
