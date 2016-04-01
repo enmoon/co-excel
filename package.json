@@ -1,0 +1,31 @@
+{
+  "name": "co-execl",
+  "version": "0.0.1",
+  "author": "enmoon <774167525@qq.com>",
+  "description": "Simple NodeJS Excel to JSON,ES2015 Generator Funtion",
+  "dependencies": {
+    "thunkify": "2.1.2",
+    "excel": "~0.1.4"
+  },
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "abc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/enmoon/co-excel.git"
+  },
+  "keywords": [
+    "async",
+    "execl",
+    "json",
+    "ES2015",
+    "generator"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enmoon/co-excel/issues"
+  },
+  "homepage": "https://github.com/enmoon/co-excel"
+}
