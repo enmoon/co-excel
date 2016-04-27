@@ -13,7 +13,7 @@ Use
 
     var handelr = function *(next) {
     	var uri = 'xxxx.xlsx';
-    	var json = yield excel(uri);.npmignore
+    	var json = yield excel(uri);
 
     	console.log(json);
     };
